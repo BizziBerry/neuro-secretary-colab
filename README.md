@@ -12,6 +12,16 @@
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 
 
+
+![Whisper](https://img.shields.io/badge/-Whisper-000000?logo=openai&logoColor=white)
+
+![GPT_3.5/4](https://img.shields.io/badge/-GPT_3.5/4-412991?logo=openai&logoColor=white)
+
+![python--docx](https://img.shields.io/badge/-python--docx-2B579A?logo=microsoft-word&logoColor=white)
+
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)
+
+
 ## 🎯 О проекте
 Прототип нейро-сотрудника для автоматической транскрибации аудио/видеозаписей деловых встреч, анализа содержания через ИИ и формирования структурированного протокола в формате Word.
 

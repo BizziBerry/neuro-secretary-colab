@@ -1,10 +1,15 @@
 # NeuroSecretaryColab 🤖📝
 Автоматический нейро-секретарь для обработки деловых встреч
 
-https://colab.research.google.com/assets/colab-badge.svg
-https://img.shields.io/badge/Python-3.12+-blue?logo=python
-https://img.shields.io/badge/License-MIT-green
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![TikToken](https://img.shields.io/badge/TikToken-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 🎯 О проекте
